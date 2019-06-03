@@ -1,0 +1,2 @@
+export const REWARD_TOTAL = "REWARD_TOTAL"
+export const REWARD_INCOME = "REWARD_INCOME"
